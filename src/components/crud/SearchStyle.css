@@ -1,0 +1,46 @@
+.search{
+   margin-left: 600px;
+   margin-top: 100px;
+}
+.name{
+   
+   margin-left: 600px;
+   margin-top: 10px;
+   color: rgb(212, 19, 19);
+   
+   
+
+}
+
+.company{
+
+   margin-left: 600px;
+   font-weight: 600
+   
+   
+}
+
+.price{
+   margin-left: 600px;
+   font-weight: 600
+
+}
+.quantity{
+   margin-left: 600px;
+   font-weight: 600
+
+}
+
+.description{
+   margin-left: 600px;
+   font-weight: 600
+
+}
+
+.expiry{
+
+   margin-left: 600px;
+   font-weight: 600
+   
+   
+}

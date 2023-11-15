@@ -1,0 +1,12 @@
+/* .App-background {
+    background-image: url('../image/med_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 85vh;
+  } */
+  
+  .coverimage {
+
+    width: 100%;
+    height: 84vh;
+}

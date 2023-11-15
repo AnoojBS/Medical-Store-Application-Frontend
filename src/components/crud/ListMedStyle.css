@@ -1,0 +1,26 @@
+/* 
+body {
+    background-color: #93b4e6; 
+    
+  } */
+
+  body {
+    background-image: url('../image/med_wallpaper.jpg');
+    background-size: cover;
+    background-color: #93b4e6;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    
+    /* Add more background properties if needed */
+
+  
+
+    
+  
+}
+
+
+
+
+
+  
